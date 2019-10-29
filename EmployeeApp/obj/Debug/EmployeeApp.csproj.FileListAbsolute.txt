@@ -1,0 +1,6 @@
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 2\EmployeeApp\bin\Debug\EmployeeApp.exe.config
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 2\EmployeeApp\bin\Debug\EmployeeApp.exe
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 2\EmployeeApp\bin\Debug\EmployeeApp.pdb
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 2\EmployeeApp\obj\Debug\EmployeeApp.exe
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 2\EmployeeApp\obj\Debug\EmployeeApp.pdb
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 2\EmployeeApp\obj\Debug\EmployeeApp.csprojAssemblyReference.cache
