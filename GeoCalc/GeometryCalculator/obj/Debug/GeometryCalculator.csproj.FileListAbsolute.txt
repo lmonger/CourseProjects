@@ -1,0 +1,5 @@
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 2\GeoCalc\GeometryCalculator\bin\Debug\GeometryCalculator.exe.config
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 2\GeoCalc\GeometryCalculator\bin\Debug\GeometryCalculator.exe
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 2\GeoCalc\GeometryCalculator\bin\Debug\GeometryCalculator.pdb
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 2\GeoCalc\GeometryCalculator\obj\Debug\GeometryCalculator.exe
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 2\GeoCalc\GeometryCalculator\obj\Debug\GeometryCalculator.pdb
