@@ -1,0 +1,5 @@
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 4\GradeCalculatorApp\bin\Debug\GradeCalculatorApp.exe.config
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 4\GradeCalculatorApp\bin\Debug\GradeCalculatorApp.exe
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 4\GradeCalculatorApp\bin\Debug\GradeCalculatorApp.pdb
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 4\GradeCalculatorApp\obj\Debug\GradeCalculatorApp.exe
+C:\Users\lorri\Documents\Independence University\IU Courses\PRG 205\Week 4\GradeCalculatorApp\obj\Debug\GradeCalculatorApp.pdb
