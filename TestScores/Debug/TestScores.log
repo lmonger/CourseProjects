@@ -1,0 +1,3 @@
+﻿  TestScores.cpp
+C:\Users\Girls Who Code\OneDrive\Documents\Independence University\IU Courses\PRG 204\Week 3\TestScores\TestScores.cpp(31): error C2065: 'average': undeclared identifier
+C:\Users\Girls Who Code\OneDrive\Documents\Independence University\IU Courses\PRG 204\Week 3\TestScores\TestScores.cpp(32): error C2065: 'average': undeclared identifier
